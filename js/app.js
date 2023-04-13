@@ -116,7 +116,7 @@ const flipCard = function cardFlip(){
           openCards[i].classList.remove('open','show');
       }
       openCards = [];
-    }, 600);
+    }, 800);
 
     } else if (openCards.length === 2 && openCards[0].innerHTML === openCards[1].innerHTML) {
 
