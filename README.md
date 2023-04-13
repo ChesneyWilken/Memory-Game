@@ -1,5 +1,7 @@
 # Memory Game Project
 
+You can play the latest version of the game here: [https://chesneywilken.github.io/Memory-Game/](https://chesneywilken.github.io/Memory-Game/)
+
 ## Table of Contents
 
 * [Instructions](#instructions)
