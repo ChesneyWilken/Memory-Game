@@ -139,7 +139,7 @@ const flipCard = function cardFlip(){
               openCards[i].classList.remove('open','show');
           }
           openCards = [];
-        }, 100); // reduced time to increase difficulty 
+        }, 300); // reduced time to increase difficulty 
 
     }
   }
